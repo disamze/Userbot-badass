@@ -43,12 +43,12 @@ logging.basicConfig(
 logger = logging.getLogger("USERHOSTSystem")
 
 # --- MANAGER BOT CONFIGURATION ---
-BOT_TOKEN = ""
-ADMIN_CHAT_ID = 
+BOT_TOKEN = "8701054521:AAFFiRiUzBHBNPjfBLRvNT_BAif19GDK3SQ"
+ADMIN_CHAT_ID = 6762302256
 
 # MANAGER BOT API CREDENTIALS
-API_ID = 
-API_HASH = ""
+API_ID = 34861453
+API_HASH = "e11c2f92a3ce4a49790c5303fe022748"
 
 # Permanent dict for tracking  hosted users and temporary registration wizard data
 USER_REG_DATA = {}
